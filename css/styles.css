@@ -21,10 +21,12 @@ body{
 .flavors{
 height: 300px;
 width: 450px;
+margin: 18px;
 }
 .main{
 height: 800px;
 width: 100%;
+
 }
 .flavor-list{
 font-size: 2em;
