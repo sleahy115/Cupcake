@@ -1,0 +1,41 @@
+h1{
+text-align: center;
+font-family: cursive;
+font-size: 10em;
+text-shadow: 3px 3px #003300;
+color: #99ff99;
+}
+h2{
+text-align: center;
+font-family: fantasy;
+font-size: 4em;
+text-decoration: underline;
+color: #dd99ff;
+}
+body{
+background: linear-gradient(to bottom right, #3333ff 25%, #00ccff 75%);
+height: 100%;
+width: 100%;
+}
+.flavors{
+height: 300px;
+width: 450px;
+}
+.main{
+height: 800px;
+width: 100%;
+}
+.flavor-list{
+font-size: 2em;
+color: #ffff80;
+}
+.dietary{
+font-size: 2em;
+color: #b3ffb3;
+}
+.see-you{
+  font-size: 2em;
+  color: #adebeb;
+  text-shadow: .5em .5em #145252;
+  font-family: fantasy;
+}
