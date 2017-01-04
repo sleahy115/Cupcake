@@ -29,13 +29,28 @@ width: 100%;
 font-size: 2em;
 color: #ffff80;
 }
-.dietary{
-font-size: 2em;
-color: #b3ffb3;
-}
 .see-you{
   font-size: 2em;
   color: #adebeb;
   text-shadow: .5em .5em #145252;
   font-family: fantasy;
+}
+.hours{
+  font-size: 25px;
+  font-family: fantasy;
+}
+.hours-one{
+  font-size: 40px;
+  font-variant: small-caps;
+  color: #dd99ff;
+}
+.blue-cupcake{
+  float: left;
+}
+.sidebar{
+  width: 30%;
+  float: right;
+  background-color: lightgreen;
+  font-size: 2em;
+  color: #b3ffb3;
 }
