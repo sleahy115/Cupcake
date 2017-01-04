@@ -13,9 +13,10 @@ text-decoration: underline;
 color: #dd99ff;
 }
 body{
-background: linear-gradient(to bottom right, #3333ff 25%, #00ccff 75%);
-height: 100%;
-width: 100%;
+  background: linear-gradient(to bottom right, #3333ff 25%, #00ccff 75%);
+  height: 100%;
+  width: 100%;
+
 }
 .flavors{
 height: 300px;
@@ -28,29 +29,54 @@ width: 100%;
 .flavor-list{
 font-size: 2em;
 color: #ffff80;
+padding-left: 30px;
+padding-right: 30px;
 }
 .see-you{
   font-size: 2em;
   color: #adebeb;
   text-shadow: .5em .5em #145252;
   font-family: fantasy;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 .hours{
   font-size: 25px;
   font-family: fantasy;
+  width: 62%;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 .hours-one{
   font-size: 40px;
   font-variant: small-caps;
   color: #dd99ff;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 .blue-cupcake{
   float: left;
+  padding-right: 30px;
 }
 .sidebar{
-  width: 30%;
+  border-top: 1px black;
+  border-style: solid;
+  padding: 30px;
+  position: absolute;
+  top: 1418px;
+  bottom: 500px;
+  right: 0;
+  height: 196%;
+  width: 25%;
   float: right;
   background-color: lightgreen;
   font-size: 2em;
-  color: #b3ffb3;
+  color: #dd99ff;
+}
+.wrapper{
+  margin: 0;
+  padding-right: 250px;
+  position: relative;
+  height: 100%;
+
 }
